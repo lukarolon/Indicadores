@@ -1,0 +1,2 @@
+# Indicadores
+XML y querys.
