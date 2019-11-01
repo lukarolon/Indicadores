@@ -1,0 +1,3 @@
+indicador diario se modifica al dia anterior hasta la ultima sincronización con oracle antes de ser generado el reporte
+se genera indicador semanal
+se genera indicador mensual
