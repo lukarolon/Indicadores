@@ -1,0 +1,4 @@
+Se añade filtro de año y semana
+se corrigen etiquetas en tipo gpo de trabajo
+se añade el grupo MAT 2 (segundo nivel)
+Se añade filtro de estatus finalizado (se quitan tickets activos del reporte)
