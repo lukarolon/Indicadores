@@ -1,0 +1,3 @@
+Todos los indicadores de “Resumen diario Operación TI” 
+Se añade tabla adicional con el detalle de todas las solicitudes atendidas de la fecha actual,
+para poder identificar lo que ocurrió en las regiones región durante la madrugada.
